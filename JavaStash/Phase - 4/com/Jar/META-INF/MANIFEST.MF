@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Package-Name: com.Jar
+Main-Class: com.Jar.StringToken
+Created-By: 10.0.2 (Oracle Corporation)
+
