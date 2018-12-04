@@ -1,0 +1,81 @@
+03-Nov-2018 20:08:27.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.12
+03-Nov-2018 20:08:27.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:13:41 UTC
+03-Nov-2018 20:08:27.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.12.0
+03-Nov-2018 20:08:27.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+03-Nov-2018 20:08:27.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.1
+03-Nov-2018 20:08:27.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+03-Nov-2018 20:08:27.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home
+03-Nov-2018 20:08:27.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+03-Nov-2018 20:08:27.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+03-Nov-2018 20:08:27.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:08:27.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/conf/logging.properties
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Nov-2018 20:08:27.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Nov-2018 20:08:27.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Nov-2018 20:08:27.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:08:27.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:08:27.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/temp
+03-Nov-2018 20:08:27.314 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/arjun-7412/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+03-Nov-2018 20:08:27.367 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:08:27.403 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Nov-2018 20:08:27.411 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:08:27.412 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Nov-2018 20:08:27.413 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 873 ms
+03-Nov-2018 20:08:27.514 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2018 20:08:27.514 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.12
+03-Nov-2018 20:08:27.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/webapps/Servlets]
+03-Nov-2018 20:08:28.092 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Nov-2018 20:08:28.183 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/webapps/Servlets] has finished in [660] ms
+03-Nov-2018 20:08:28.185 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:08:28.193 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:08:28.195 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 781 ms
+03-Nov-2018 20:08:46.026 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:08:46.095 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:08:46.151 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Nov-2018 20:08:46.178 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:08:46.181 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:08:46.184 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:08:46.184 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:17:57.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.12
+03-Nov-2018 20:17:57.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:13:41 UTC
+03-Nov-2018 20:17:57.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.12.0
+03-Nov-2018 20:17:57.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+03-Nov-2018 20:17:57.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.1
+03-Nov-2018 20:17:57.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+03-Nov-2018 20:17:57.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home
+03-Nov-2018 20:17:57.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+03-Nov-2018 20:17:57.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+03-Nov-2018 20:17:57.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:17:57.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/conf/logging.properties
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2018 20:17:57.347 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/temp
+03-Nov-2018 20:17:57.348 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/arjun-7412/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+03-Nov-2018 20:17:57.393 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:17:57.415 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Nov-2018 20:17:57.420 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:17:57.421 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Nov-2018 20:17:57.421 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 518 ms
+03-Nov-2018 20:17:57.469 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2018 20:17:57.470 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.12
+03-Nov-2018 20:17:57.477 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/webapps/Servlets]
+03-Nov-2018 20:17:57.894 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Nov-2018 20:17:57.930 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/apache-tomcat-9.0.12/webapps/Servlets] has finished in [452] ms
+03-Nov-2018 20:17:57.933 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2018 20:17:57.940 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+03-Nov-2018 20:17:57.941 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 520 ms

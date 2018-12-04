@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:31:17 +0530] "GET /Servlets HTTP/1.0" 302 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:31:17 +0530] "GET /Servlets/ HTTP/1.0" 200 413
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:31:29 +0530] "POST /Servlets/ServletUtil HTTP/1.0" 200 54
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:31:44 +0530] "POST /Servlets/ServletUtil HTTP/1.0" 200 54
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:32:15 +0530] "POST /Servlets/ServletUtil HTTP/1.0" 200 54
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:00 +0530] "HEAD / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:06 +0530] "HEAD /Servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:12 +0530] "HEAD /Servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:15 +0530] "HEAD / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:31 +0530] "HEAD /Servlets/ServletUtil HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:33:56 +0530] "GET /Servlets/ServletUtil HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:35:50 +0530] "GET /Servlets/ServletUtil?name=test404&paswrd=c0n.0p3n(); HTTP/1.1" 200 109
+0:0:0:0:0:0:0:1 - - [09/Nov/2018:22:36:25 +0530] "POST /Servlets/ServletUtil?name=test404&paswrd=c0n.0p3n%28%29; HTTP/1.1" 200 109

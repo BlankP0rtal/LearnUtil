@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:05 +0530] "GET /Servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:05 +0530] "GET /Servlets/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:06 +0530] "GET /favicon.ico HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:10 +0530] "POST /Servlets/ServletUtil HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:24 +0530] "POST /Servlets/ServletUtil HTTP/1.1" 200 121
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:19:35:49 +0530] "POST /Servlets/ServletUtil?name=test404&paswrd=c0n.0p3n%28%29; HTTP/1.1" 200 121

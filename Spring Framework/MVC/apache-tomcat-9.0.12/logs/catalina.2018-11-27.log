@@ -1,0 +1,196 @@
+27-Nov-2018 11:34:14.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.12
+27-Nov-2018 11:34:14.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:13:41 UTC
+27-Nov-2018 11:34:14.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.12.0
+27-Nov-2018 11:34:14.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Nov-2018 11:34:14.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.1
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12
+27-Nov-2018 11:34:14.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12
+27-Nov-2018 11:34:14.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Nov-2018 11:34:14.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Nov-2018 11:34:14.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Nov-2018 11:34:14.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/conf/logging.properties
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12
+27-Nov-2018 11:34:14.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/temp
+27-Nov-2018 11:34:14.638 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/arjun-7412/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Nov-2018 11:34:14.685 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 11:34:14.707 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2018 11:34:14.711 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 11:34:14.712 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2018 11:34:14.713 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 510 ms
+27-Nov-2018 11:34:14.777 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2018 11:34:14.778 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.12
+27-Nov-2018 11:34:14.784 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/webapps/Test]
+27-Nov-2018 11:34:15.224 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:34:15.267 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/webapps/Test] has finished in [482] ms
+27-Nov-2018 11:34:15.267 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/webapps/ROOT]
+27-Nov-2018 11:34:18.751 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:34:18.798 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:34:18.875 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:34:18 IST 2018]; root of context hierarchy
+27-Nov-2018 11:34:18.935 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:34:19.011 SEVERE [main] org.springframework.web.servlet.DispatcherServlet.initServletBean Context initialization failed
+ org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 28 in XML document from ServletContext resource [/WEB-INF/UserController-servlet.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 28; columnNumber: 3; The markup in the document following the root element must be well-formed.
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:399)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:181)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:217)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:614)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:515)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:171)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1124)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1079)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:971)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4829)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5143)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1141)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1876)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1053)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:428)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:969)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1429)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1419)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:944)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:261)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 28; columnNumber: 3; The markup in the document following the root element must be well-formed.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$TrailingMiscDriver.next(XMLDocumentScannerImpl.java:1354)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:532)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:76)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:429)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:391)
+	... 61 more
+
+27-Nov-2018 11:34:19.016 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/arjun-7412/Documents/Code Stash/LearnUtil/Spring Framework/MVC/apache-tomcat-9.0.12/webapps/ROOT] has finished in [3,749] ms
+27-Nov-2018 11:34:19.018 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 11:34:19.024 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 11:34:19.026 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4312 ms
+27-Nov-2018 11:34:59.031 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context []
+27-Nov-2018 11:34:59.033 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+27-Nov-2018 11:34:59.939 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:34:59.982 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:35:00.043 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:35:00 IST 2018]; root of context hierarchy
+27-Nov-2018 11:35:00.089 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:35:00.453 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/{name}] onto handler 'userController'
+27-Nov-2018 11:35:00.453 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/{name}.*] onto handler 'userController'
+27-Nov-2018 11:35:00.453 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/{name}/] onto handler 'userController'
+27-Nov-2018 11:35:00.571 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization completed in 589 ms
+27-Nov-2018 11:35:00.573 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+27-Nov-2018 11:35:27.035 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.PageNotFound.noHandlerFound No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'UserController'
+27-Nov-2018 11:37:40.635 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context []
+27-Nov-2018 11:37:40.636 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+27-Nov-2018 11:37:40.636 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:35:00 IST 2018]; root of context hierarchy
+27-Nov-2018 11:37:41.701 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:37:41.749 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:37:41.821 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:37:41 IST 2018]; root of context hierarchy
+27-Nov-2018 11:37:41.864 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:37:42.168 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random] onto handler 'userController'
+27-Nov-2018 11:37:42.169 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random.*] onto handler 'userController'
+27-Nov-2018 11:37:42.169 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random/] onto handler 'userController'
+27-Nov-2018 11:37:42.259 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization completed in 510 ms
+27-Nov-2018 11:37:42.261 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+27-Nov-2018 11:37:46.668 WARNING [http-nio-8080-exec-12] org.springframework.web.servlet.PageNotFound.noHandlerFound No mapping found for HTTP request with URI [/index] in DispatcherServlet with name 'UserController'
+27-Nov-2018 11:40:02.320 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context []
+27-Nov-2018 11:40:02.320 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+27-Nov-2018 11:40:02.321 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:37:41 IST 2018]; root of context hierarchy
+27-Nov-2018 11:40:03.262 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:40:03.294 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:40:03.355 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:40:03 IST 2018]; root of context hierarchy
+27-Nov-2018 11:40:03.398 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:40:03.689 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random] onto handler 'userController'
+27-Nov-2018 11:40:03.689 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random.*] onto handler 'userController'
+27-Nov-2018 11:40:03.690 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random/] onto handler 'userController'
+27-Nov-2018 11:40:03.779 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization completed in 484 ms
+27-Nov-2018 11:40:03.781 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+27-Nov-2018 11:42:23.838 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context []
+27-Nov-2018 11:42:23.838 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+27-Nov-2018 11:42:23.839 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:40:03 IST 2018]; root of context hierarchy
+27-Nov-2018 11:42:24.636 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:42:24.671 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:42:24.744 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:42:24 IST 2018]; root of context hierarchy
+27-Nov-2018 11:42:24.791 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:42:25.085 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random] onto handler 'userController'
+27-Nov-2018 11:42:25.086 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random.*] onto handler 'userController'
+27-Nov-2018 11:42:25.086 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random/] onto handler 'userController'
+27-Nov-2018 11:42:25.182 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization completed in 511 ms
+27-Nov-2018 11:42:25.183 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+27-Nov-2018 11:45:55.274 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context []
+27-Nov-2018 11:45:55.275 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+27-Nov-2018 11:45:55.276 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:42:24 IST 2018]; root of context hierarchy
+27-Nov-2018 11:45:56.062 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 11:45:56.096 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization started
+27-Nov-2018 11:45:56.162 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:45:56 IST 2018]; root of context hierarchy
+27-Nov-2018 11:45:56.208 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/UserController-servlet.xml]
+27-Nov-2018 11:45:56.482 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random] onto handler 'userController'
+27-Nov-2018 11:45:56.482 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random.*] onto handler 'userController'
+27-Nov-2018 11:45:56.482 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/random/] onto handler 'userController'
+27-Nov-2018 11:45:56.574 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'UserController': initialization completed in 477 ms
+27-Nov-2018 11:45:56.576 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+27-Nov-2018 15:14:47.498 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 15:14:47.512 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 15:14:47.567 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2018 15:14:47.572 INFO [Thread-4] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'UserController-servlet': startup date [Tue Nov 27 11:45:56 IST 2018]; root of context hierarchy
+27-Nov-2018 15:14:50.045 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 15:14:50.047 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 15:14:50.048 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 15:14:50.049 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,27 @@
+//Analysis with him
+
+Objective 
+To get a specific data from a pool of data 
+
+Input 
+specific data's identifier 
+
+------- 
+
+Objective 
+To print the mentioned fields from the JSON response of the mentioned URL 
+
+Input 
+NA
+
+
+Actual objective 10 hours 
+20%
+Response -- Request 
+JSON 
+
+80%
+GSON 
+Object model 
+JSP 
+server 
